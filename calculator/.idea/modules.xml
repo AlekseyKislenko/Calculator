@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GUIClient/GUIClient.iml" filepath="$PROJECT_DIR$/GUIClient/GUIClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculator.iml" filepath="$PROJECT_DIR$/calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consoleClient/consoleClient.iml" filepath="$PROJECT_DIR$/consoleClient/consoleClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dataModel/dataModel.iml" filepath="$PROJECT_DIR$/dataModel/dataModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stateMachine/stateMachine.iml" filepath="$PROJECT_DIR$/stateMachine/stateMachine.iml" />
+    </modules>
+  </component>
+</project>
+
